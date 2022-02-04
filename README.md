@@ -6,7 +6,7 @@
 
 The project has a variety of art items in display. Some custom, some of free access and use.
 
-This project is a revamp of our original Hall project [(https://github.com/Cecropia/thehallvr)](https://github.com/Cecropia/thehallvr) which is in its entirety a THREE.js project, we decided to migrate it to A-Frame to test its convenience against a stand-alone THREE.js app for VR and the results are superior. The most important part is that there's a default behavior such as controls across VR devices and compatibility that makes it easy to work with it.
+its entirety a THREE.js project, we decided to migrate it to A-Frame to test its convenience against a stand-alone THREE.js app for VR and the results are superior. The most important part is that there's a default behavior such as controls across VR devices and compatibility that makes it easy to work with it.
 
 # Navigation
 
